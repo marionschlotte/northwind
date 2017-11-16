@@ -13,4 +13,4 @@ modules:
        version: 1.0.0-${timestamp}
     build-parameters:
       builder: grunt
-      build-result: dist
+      build-result: dist      
